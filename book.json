@@ -1,0 +1,8 @@
+{
+  "plugins" : [ "heading-anchors", "katex" ],
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "night"
+    }
+  }
+}
